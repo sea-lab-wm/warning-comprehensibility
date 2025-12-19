@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+    <ruleset name='Custom Rule for Cyclomatic Complexity'>
+        <description>Cyclomatic complexity</description>
+        <rule ref='category/java/design.xml/CyclomaticComplexity'>
+            <properties>
+                <property name='methodReportLevel' value='1' />
+            </properties>
+        </rule>
+    </ruleset>

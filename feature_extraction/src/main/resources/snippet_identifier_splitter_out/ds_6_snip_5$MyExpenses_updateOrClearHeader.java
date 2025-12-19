@@ -1,0 +1,18 @@
+getChildCount mList 
+doesListHaveChildren isFirstViewBelowTop 
+getChildAt mList firstItem View 
+getFirstVisiblePosition mList 
+getBottom firstItem stickyHeaderTop 
+getTop getChildAt mList stickyHeaderTop 
+headerPosition 
+headerPosition adapterCount isHeaderPositionOutsideAdapterRange 
+headerPosition 
+doesListHaveChildren isHeaderPositionOutsideAdapterRange isFirstViewBelowTop 
+clearHeader 
+updateOrClearHeader firstVisiblePosition 
+mAdapter getCount mAdapter adapterCount 
+adapterCount mAreHeadersSticky 
+getHeaderViewsCount mList headerViewCount 
+firstVisiblePosition headerViewCount headerPosition 
+getChildCount mList doesListHaveChildren 
+headerPosition updateHeader 

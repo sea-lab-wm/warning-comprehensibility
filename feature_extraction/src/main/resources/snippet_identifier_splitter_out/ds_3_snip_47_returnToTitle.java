@@ -1,0 +1,4 @@
+closeMenus 
+removeInGameComponents 
+showMainPanel 
+returnToTitle 
